@@ -1,0 +1,9 @@
+
+6:52:40 => first log message!
+6:52:40 => /home/yustone/Desktop/MPRPC/example/callee/friendservice.cc:main:43
+19:18:55 =>[info] service_name:FriendServiceRpc
+19:18:55 =>[info] method_name:GetFriendList
+19:23:11 =>[info] service_name:FriendServiceRpc
+19:23:11 =>[info] method_name:GetFriendList
+19:39:27 =>[info] service_name:FriendServiceRpc
+19:39:27 =>[info] method_name:GetFriendList
